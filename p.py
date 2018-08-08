@@ -1,1 +1,3 @@
-print(Hello world!)
+#!/usr/bin/python
+print("old file")
+print("Hello world!")
